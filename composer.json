@@ -1,0 +1,9 @@
+{
+    "name": "asus/global_projet_laravel",
+    "autoload": {
+        "psr-4": {
+            "Asus\\GlobalProjetLaravel\\": "src/"
+        }
+    },
+    "require": {}
+}

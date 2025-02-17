@@ -1,0 +1,6 @@
+--installer Composer 
+composer init 
+composer install 
+composer update 
+
+--
