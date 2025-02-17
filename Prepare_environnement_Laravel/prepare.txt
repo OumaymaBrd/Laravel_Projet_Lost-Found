@@ -5,6 +5,8 @@ composer update
 
 -- Installler Laravel
 
-installer globalement Laravel 
+installer globalement Laravel --version 10.x
 
 composer global require laravel/installer 
+composer create-project --prefer-dist laravel/laravel "Lost\&Found" "10.*"
+
