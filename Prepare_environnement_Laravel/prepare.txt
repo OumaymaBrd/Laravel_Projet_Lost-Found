@@ -3,4 +3,8 @@ composer init
 composer install 
 composer update 
 
---
+-- Installler Laravel
+
+installer globalement Laravel 
+
+composer global require laravel/installer 
