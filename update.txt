@@ -11,3 +11,4 @@
 // Modification pour commit : Ì±§ Cr√©ation des profils utilisateurs
 // Modification pour commit : Ì≥ä Affichage des statistiques des annonces
 // Modification pour commit : Ì∫Ä Optimisation du chargement des annonces
+// Modification pour commit : ‚ú® Validation des annonces avant publication
