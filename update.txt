@@ -18,3 +18,4 @@
 // Modification pour commit : Ì≥± Am√©lioration du responsive design
 // Modification pour commit : Ì≥ù Ajout des informations de contact
 // Modification pour commit : ‚ö° Am√©lioration des performances SQL
+// Modification pour commit : Ì¥Ñ Rafra√Æchissement automatique des annonces
