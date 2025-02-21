@@ -23,3 +23,4 @@
 // Modification pour commit : Ì∫Ä Optimisation des requ√™tes
 // Modification pour commit : Ì≤æ Sauvegarde automatique des brouillons
 // Modification pour commit : Ìºê Int√©gration des r√©seaux sociaux
+// Modification pour commit : Ìª† Correction des erreurs d'affichage
