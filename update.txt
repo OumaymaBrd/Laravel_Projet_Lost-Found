@@ -19,3 +19,4 @@
 // Modification pour commit : Ì≥ù Ajout des informations de contact
 // Modification pour commit : ‚ö° Am√©lioration des performances SQL
 // Modification pour commit : Ì¥Ñ Rafra√Æchissement automatique des annonces
+// Modification pour commit : Ì≥¢ Signalement des annonces frauduleuses
