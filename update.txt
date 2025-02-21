@@ -21,3 +21,4 @@
 // Modification pour commit : í´„ RafraÃ®chissement automatique des annonces
 // Modification pour commit : í³¢ Signalement des annonces frauduleuses
 // Modification pour commit : íº€ Optimisation des requÃªtes
+// Modification pour commit : í²¾ Sauvegarde automatique des brouillons
