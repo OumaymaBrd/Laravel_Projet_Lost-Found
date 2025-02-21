@@ -6,3 +6,4 @@
 // Modification pour commit : Ì≥¶ Ajout du filtrage par cat√©gorie
 // Modification pour commit : Ì¥ç Ajout d'une barre de recherche
 // Modification pour commit : Ì≥∏ Support pour l'ajout de photos aux annonces
+// Modification pour commit : Ì≤¨ Activation des commentaires
