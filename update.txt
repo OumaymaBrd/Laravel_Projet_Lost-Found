@@ -1,3 +1,4 @@
 // Modification pour commit : ‚ú® Ajout de la publication d'objets perdus
 // Modification pour commit : Ìæ® Am√©lioration de l'affichage des annonces
 // Modification pour commit : Ì∫Ä Optimisation de la recherche par mots-cl√©s
+// Modification pour commit : Ì∞õ Correction du bug d'affichage des images
