@@ -8,3 +8,4 @@
 // Modification pour commit : Ì≥∏ Support pour l'ajout de photos aux annonces
 // Modification pour commit : Ì≤¨ Activation des commentaires
 // Modification pour commit : Ì¥ê Ajout de l'authentification des utilisateurs
+// Modification pour commit : Ì±§ Cr√©ation des profils utilisateurs
