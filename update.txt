@@ -4,3 +4,4 @@
 // Modification pour commit : Ì∞õ Correction du bug d'affichage des images
 // Modification pour commit : Ìª† Refactorisation du code des annonces
 // Modification pour commit : Ì≥¶ Ajout du filtrage par cat√©gorie
+// Modification pour commit : Ì¥ç Ajout d'une barre de recherche
