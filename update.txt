@@ -26,3 +26,4 @@
 // Modification pour commit : Ìª† Correction des erreurs d'affichage
 // Modification pour commit : Ì¥ç Pr√©cision des r√©sultats de recherche
 // Modification pour commit : Ì≥ä Tableau de bord pour l‚Äôadmin
+// Modification pour commit : Ì≤° Mode sombre ajout√©
