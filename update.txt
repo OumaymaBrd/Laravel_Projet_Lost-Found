@@ -13,3 +13,4 @@
 // Modification pour commit : Ì∫Ä Optimisation du chargement des annonces
 // Modification pour commit : ‚ú® Validation des annonces avant publication
 // Modification pour commit : Ìºç G√©olocalisation des objets trouv√©s
+// Modification pour commit : Ì≥Ö Tri des annonces par date
